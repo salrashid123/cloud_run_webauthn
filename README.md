@@ -14,7 +14,6 @@ or just like...you know [https://webauthn.io/](https://webauthn.io/)
 but adapted for cloud run..i'd encourage you to read the following
 
 - [How security keys store credentials](https://duo.com/labs/tech-notes/how-security-keys-store-credentials)
-https://webauthn-6w42z6vi3q-uc.a.run.app/
 
 - [WebAuthn Basic Web Client/Server](https://www.herbie.dev/blog/webauthn-basic-web-client-server/)
 
